@@ -75,7 +75,7 @@ Feel free to use, modify, and distribute it as you like.
 ## ✍️ Author
 
 - **Manish Kumar Sah**  
-  [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)  
+  [GitHub](https://github.com/your-username) | [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manish8312/))  
 
 ---
 

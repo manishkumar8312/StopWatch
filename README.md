@@ -15,7 +15,7 @@ A simple and responsive Stopwatch application built with **HTML**, **CSS**, and 
 
 ---
 
-## 🚀 Live Demo
+### Live Demo
 
 [Click here to view the live demo](#) (Replace `#` with your live deployment link)
 

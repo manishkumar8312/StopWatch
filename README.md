@@ -61,7 +61,7 @@ Follow these steps to run the project locally:
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/your-username/stopwatch/issues) for ideas.
+Feel free to check the [issues page](https://github.com/manishkumar8312/stopwatch/issues) for ideas.
 
 ---
 

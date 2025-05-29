@@ -33,8 +33,8 @@ A simple and responsive Stopwatch application built with **HTML**, **CSS**, and 
 ## 🖥 Preview
 
 ![{C355B044-55B0-4AB2-80C3-3D088241DD4F}](https://github.com/user-attachments/assets/498666ae-0b09-4dab-b438-46160844fd2a)
- 
 
+ 
 ---
 
 ## 🔧 Setup

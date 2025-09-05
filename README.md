@@ -3,7 +3,7 @@
 
 A simple and responsive Stopwatch application built with **HTML**, **CSS**, and **JavaScript**. This project helps track time in hours, minutes, seconds, and milliseconds.
 
----
+--- 
 ## 🛠 Features
 
 - **Start**: Begin the stopwatch.
